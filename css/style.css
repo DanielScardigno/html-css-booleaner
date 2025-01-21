@@ -61,3 +61,26 @@ h1 {
 .highlight {
     background-color: yellow;
 }
+
+.table {
+    font-size: 25px;
+}
+
+.table-head {
+    color: white;
+    background-color: rgb(134, 182, 255);
+    text-align: left;
+}
+
+.table-element {
+    border: 7px;
+    border-color: solid, white;
+}
+
+.dark-row {
+    background-color: rgb(227, 227, 255);
+}
+
+.long-row {
+    width: 50%;
+}
