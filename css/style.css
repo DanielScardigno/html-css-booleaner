@@ -51,3 +51,13 @@ h1 {
     margin: 0;
     font-size: 20px;
 }
+
+.long-paragraph {
+    font-size: 25px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.highlight {
+    background-color: yellow;
+}
