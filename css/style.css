@@ -11,4 +11,10 @@ body {
 
 .logo {
     width: 325px;
+    margin-left: 8%;
+}
+
+main {
+    margin: auto;
+    width: 80%;
 }
